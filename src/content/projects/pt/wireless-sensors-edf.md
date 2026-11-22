@@ -10,6 +10,7 @@ links:
     url: https://www.edf.fr/centrale-nucleaire-saint-alban
 cover: ../_images/wireless-sensors-edf/cover.png
 featured: true
+draft: true
 ---
 
 Em janeiro e fevereiro de 2026 fiz um estágio em sistemas embarcados na usina nuclear de Saint-Alban, da EDF (Électricité de France).

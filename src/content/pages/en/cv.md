@@ -23,12 +23,12 @@ Top-ranked university in the north and north-east of Brazil. Focus on embedded s
 ### Embedded systems intern, EDF, Saint-Alban nuclear power plant (France)
 *January – February 2026*
 
-Study and installation of wireless sensors (pressure, temperature, flow) and data processing for the nuclear sampling system (REN). [See the project](/en/projects/wireless-sensors-edf/)
+Study and installation of wireless sensors (pressure, temperature, flow) and data processing for the nuclear sampling system (REN).
 
 ### Research project, GPEC Laboratory (Brazil)
 *2024 – 2025*
 
-Paid scholarship to study the design and simulation of a quadratic flyback converter for electric vehicle applications. Skills gained: Matlab/Simulink, PSIM, PLECS, KiCad, Eagle, power electronics. [See the project](/en/projects/quadratic-flyback/)
+Paid scholarship to study the design and simulation of a quadratic flyback converter for electric vehicle applications. Skills gained: Matlab/Simulink, PSIM, PLECS, KiCad, Eagle, power electronics.
 
 ### FarmBot project, GPAR Laboratory (Brazil)
 *2024*

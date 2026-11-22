@@ -10,6 +10,7 @@ links:
     url: https://www.edf.fr/centrale-nucleaire-saint-alban
 cover: ../_images/wireless-sensors-edf/cover.png
 featured: true
+draft: true
 ---
 
 En janvier et février 2026, j’ai effectué un stage en systèmes embarqués à la centrale nucléaire de Saint-Alban, chez EDF (Électricité de France).

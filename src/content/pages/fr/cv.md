@@ -23,12 +23,12 @@ Meilleure université du nord et du nord-est du Brésil. Formation axée sur les
 ### Stagiaire en systèmes embarqués, EDF, centrale nucléaire de Saint-Alban
 *Janvier – février 2026*
 
-Étude et installation de capteurs sans fil (pression, température, débit) et traitement des données sur le système d’échantillonnage nucléaire (REN). [Voir le projet](/fr/projects/wireless-sensors-edf/)
+Étude et installation de capteurs sans fil (pression, température, débit) et traitement des données sur le système d’échantillonnage nucléaire (REN).
 
 ### Projet de recherche d’excellence, laboratoire GPEC, Brésil
 *2024 – 2025*
 
-Bourse rémunérée pour étudier la conception et la simulation d’un convertisseur flyback quadratique pour des applications dans les véhicules électriques. Compétences acquises : Matlab/Simulink, PSIM, PLECS, KiCad, Eagle, électronique de puissance. [Voir le projet](/fr/projects/quadratic-flyback/)
+Bourse rémunérée pour étudier la conception et la simulation d’un convertisseur flyback quadratique pour des applications dans les véhicules électriques. Compétences acquises : Matlab/Simulink, PSIM, PLECS, KiCad, Eagle, électronique de puissance.
 
 ### Projet FarmBot, laboratoire GPAR, Brésil
 *2024*

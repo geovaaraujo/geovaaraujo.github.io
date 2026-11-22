@@ -11,6 +11,7 @@ links:
     url: http://www.gpec.ufc.br/index.html
 cover: ../_images/quadratic-flyback/cover.png
 featured: true
+draft: true
 ---
 
 Between 2024 and 2025, on a research scholarship at the GPEC laboratory of the Federal University of Ceará, I studied the design and simulation of a quadratic flyback converter for electric vehicle applications.

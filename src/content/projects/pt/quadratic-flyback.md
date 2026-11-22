@@ -11,6 +11,7 @@ links:
     url: http://www.gpec.ufc.br/index.html
 cover: ../_images/quadratic-flyback/cover.png
 featured: true
+draft: true
 ---
 
 Entre 2024 e 2025, com uma bolsa de pesquisa no laboratório GPEC da Universidade Federal do Ceará, estudei a concepção e a simulação de um conversor flyback quadrático voltado para aplicações em veículos elétricos.

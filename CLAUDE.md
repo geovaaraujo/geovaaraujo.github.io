@@ -51,6 +51,11 @@ Endereço final: https://geovaaraujo.github.io (repositório público `geovaarau
 - 22/11: sessão 07 feita: projeto PET com 5 fotos reais, traduzido para FR e EN e publicado
   nas 3 línguas. O eletrônico foi montado em placa perfurada (não é PCB fabricada).
   `_images/pet-filament/cover.png` (diagrama antigo) não é mais usado.
+- 22/11: projetos flyback e EDF retirados do site (`draft: true`; não posso dar detalhes). O
+  estágio na EDF continua no CV, sem link "Ver o projeto". Home não cita mais o flyback.
+- 22/11: FarmBot reescrito nas 3 línguas a partir do artigo (CC BY 4.0, 4 figuras com crédito).
+  Meu papel: teste de corpos estranhos (impressões 3D, visão computacional em Python, participei
+  da lógica nova: 40 % → 72,5 %), experimentos, fotos e manutenção da eletrônica. Não construí o robô.
 
 ## Plano (3 sessões de 2h por semana; detalhes de cada sessão no meu Google Agenda)
 

@@ -23,12 +23,12 @@ Melhor universidade do Norte e Nordeste do Brasil. Formação com foco em sistem
 ### Estagiário em sistemas embarcados, EDF, usina nuclear de Saint-Alban (França)
 *Janeiro – fevereiro de 2026*
 
-Estudo e instalação de sensores sem fio (pressão, temperatura, vazão) e tratamento dos dados do sistema de amostragem nuclear (REN). [Ver o projeto](/pt/projects/wireless-sensors-edf/)
+Estudo e instalação de sensores sem fio (pressão, temperatura, vazão) e tratamento dos dados do sistema de amostragem nuclear (REN).
 
 ### Projeto de pesquisa, Laboratório GPEC (UFC)
 *2024 – 2025*
 
-Bolsa remunerada para estudar a concepção e a simulação de um conversor flyback quadrático para aplicações em veículos elétricos. Competências adquiridas: Matlab/Simulink, PSIM, PLECS, KiCad, Eagle, eletrônica de potência. [Ver o projeto](/pt/projects/quadratic-flyback/)
+Bolsa remunerada para estudar a concepção e a simulação de um conversor flyback quadrático para aplicações em veículos elétricos. Competências adquiridas: Matlab/Simulink, PSIM, PLECS, KiCad, Eagle, eletrônica de potência.
 
 ### Projeto FarmBot, Laboratório GPAR (UFC)
 *2024*

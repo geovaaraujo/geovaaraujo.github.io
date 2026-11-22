@@ -10,6 +10,7 @@ links:
     url: https://www.edf.fr/centrale-nucleaire-saint-alban
 cover: ../_images/wireless-sensors-edf/cover.png
 featured: true
+draft: true
 ---
 
 In January and February 2026 I did an embedded systems internship at the Saint-Alban nuclear power plant, operated by EDF (Électricité de France).
