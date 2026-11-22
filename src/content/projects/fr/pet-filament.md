@@ -11,7 +11,7 @@ links:
     url: https://github.com/geovaaraujo/PET-Filament-for-3D-printer-Research
 cover: ../_images/pet-filament/maquina.webp
 coverAlt: La machine complète sur un socle en acrylique, avec le mécanisme d’entraînement à engrenages bleus, la buse d’extrusion, la bobine et le boîtier de commande avec écran et boutons
-featured: false
+featured: true
 draft: false
 ---
 

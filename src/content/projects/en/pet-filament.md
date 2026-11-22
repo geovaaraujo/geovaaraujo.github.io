@@ -11,7 +11,7 @@ links:
     url: https://github.com/geovaaraujo/PET-Filament-for-3D-printer-Research
 cover: ../_images/pet-filament/maquina.webp
 coverAlt: The complete machine on an acrylic base, with the blue gear-driven puller, the extruder nozzle, the spool and the control box with display and switches
-featured: false
+featured: true
 draft: false
 ---
 

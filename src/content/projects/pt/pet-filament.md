@@ -11,7 +11,7 @@ links:
     url: https://github.com/geovaaraujo/PET-Filament-for-3D-printer-Research
 cover: ../_images/pet-filament/maquina.webp
 coverAlt: A máquina completa sobre uma base de acrílico, com o mecanismo de tração de engrenagens azuis, o bico extrusor, o carretel e a caixa de controle com display e botões
-featured: false
+featured: true
 draft: false
 ---
 
