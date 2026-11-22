@@ -6,11 +6,11 @@
 export const site = {
   name: 'Geová Araujo',
 
-  github: 'https://github.com/Geova16',
+  github: 'https://github.com/geovaaraujo',
   linkedin: 'https://www.linkedin.com/in/geov%C3%A1-araujo-machado-de-carvalho-594743254/',
 
   // Repositório com o código deste site (link no rodapé). '' para não mostrar.
-  repo: 'https://github.com/Geova16/Geova16.github.io',
+  repo: 'https://github.com/geovaaraujo/geovaaraujo.github.io',
 
   // Opcional. Se preencher, o e-mail aparece no rodapé de todas as páginas.
   // Deixe '' (vazio) para não mostrar. Lembre que o site é público.

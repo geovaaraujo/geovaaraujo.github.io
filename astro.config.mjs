@@ -3,8 +3,8 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  // Endereço público do site. Com um repositório chamado "Geova16.github.io",
+  // Endereço público do site. Com um repositório chamado "geovaaraujo.github.io",
   // o GitHub Pages publica exatamente neste endereço (sem subpasta).
   // Se um dia você comprar um domínio, é só trocar aqui.
-  site: 'https://geova16.github.io',
+  site: 'https://geovaaraujo.github.io',
 });

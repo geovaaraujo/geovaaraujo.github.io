@@ -17,7 +17,7 @@ tech: [C, ESP32, KiCad]   # tecnologias, separadas por vírgula
 
 links:                    # opcional; apague o bloco se não tiver links
   - label: Código no GitHub
-    url: https://github.com/Geova16/nome-do-repositorio
+    url: https://github.com/geovaaraujo/nome-do-repositorio
 
 # Imagem de capa: coloque a foto em src/content/projects/_images/meu-projeto/
 # (a mesma pasta serve para as três línguas) e aponte para ela aqui.

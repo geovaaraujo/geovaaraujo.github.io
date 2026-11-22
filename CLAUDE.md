@@ -2,7 +2,7 @@
 
 Site pessoal de Geová Araujo: portfólio, blog e CV em três línguas (pt, fr, en).
 Público principal: recrutadores de estágio (verão 2027, energia e sistemas embarcados).
-Endereço final: https://geova16.github.io (repositório público `Geova16.github.io`).
+Endereço final: https://geovaaraujo.github.io (repositório público `geovaaraujo.github.io`).
 
 ## Sobre mim e como trabalhar comigo
 
@@ -41,9 +41,10 @@ Endereço final: https://geova16.github.io (repositório público `Geova16.githu
   diagramas provisórios em `src/content/projects/_images/`, para trocar por fotos reais.
 - Estágio na EDF: só publicar o que já está no CV até a EDF confirmar o que pode ir para o site.
 - 20/11: sessões 01–03 feitas. Projeto em `Documents\Site`; Git assina com o e-mail noreply
-  do GitHub. Repositório público `geova16/Geova16.github.io`, Pages via GitHub Actions;
-  site no ar em https://geova16.github.io. Apresentação da home reescrita nas 3 línguas
-  (mais concreta: EDF, flyback, FarmBot), aguardando revisão.
+  do GitHub. Repositório público, Pages via GitHub Actions. Apresentação da home reescrita
+  nas 3 línguas (mais concreta: EDF, flyback, FarmBot) e aprovada em 22/11.
+- 22/11: usuário do GitHub trocado de `geova16` para `geovaaraujo`; repositório renomeado
+  para `geovaaraujo/geovaaraujo.github.io`; site em https://geovaaraujo.github.io.
 
 ## Plano (3 sessões de 2h por semana; detalhes de cada sessão no meu Google Agenda)
 

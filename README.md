@@ -66,8 +66,8 @@ git commit -m "Descreva o que mudou"
 git push
 ```
 
-Um ou dois minutos depois, a mudança está em https://geova16.github.io.
+Um ou dois minutos depois, a mudança está em https://geovaaraujo.github.io.
 O acompanhamento fica na aba **Actions** do repositório no GitHub.
 
-Só na primeira vez: crie no GitHub um repositório público chamado `Geova16.github.io`
+Só na primeira vez: crie no GitHub um repositório público chamado `geovaaraujo.github.io`
 e, em **Settings → Pages → Source**, escolha **GitHub Actions**.
