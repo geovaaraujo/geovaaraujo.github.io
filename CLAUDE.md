@@ -45,6 +45,12 @@ Endereço final: https://geovaaraujo.github.io (repositório público `geovaarau
   nas 3 línguas (mais concreta: EDF, flyback, FarmBot) e aprovada em 22/11.
 - 22/11: usuário do GitHub trocado de `geova16` para `geovaaraujo`; repositório renomeado
   para `geovaaraujo/geovaaraujo.github.io`; site em https://geovaaraujo.github.io.
+- 22/11: sessão 04 feita (4 mudanças visuais testadas e desfeitas). Sessão 05 adiada: vou
+  inserir os outros projetos sozinho depois. Sessão 06: projeto 1 = máquina de filamento PET
+  (`pet-filament.md`), texto completo em pt.
+- 22/11: sessão 07 feita: projeto PET com 5 fotos reais, traduzido para FR e EN e publicado
+  nas 3 línguas. O eletrônico foi montado em placa perfurada (não é PCB fabricada).
+  `_images/pet-filament/cover.png` (diagrama antigo) não é mais usado.
 
 ## Plano (3 sessões de 2h por semana; detalhes de cada sessão no meu Google Agenda)
 
