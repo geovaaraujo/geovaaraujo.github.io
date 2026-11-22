@@ -56,6 +56,9 @@ Endereço final: https://geovaaraujo.github.io (repositório público `geovaarau
 - 22/11: FarmBot reescrito nas 3 línguas a partir do artigo (CC BY 4.0, 4 figuras com crédito).
   Meu papel: teste de corpos estranhos (impressões 3D, visão computacional em Python, participei
   da lógica nova: 40 % → 72,5 %), experimentos, fotos e manutenção da eletrônica. Não construí o robô.
+- 22/11: projeto novo `mpc-microgrid` (BE 8, eletiva Smart Grid, Centrale Lille, abril 2026, em
+  dupla com Ana Letícia Alves, nota A+) publicado nas 3 línguas com 4 slides. Minha parte: MPC e
+  Simulink. Números: diesel 275,8 → 246,5 → 240,6 L/dia (−12,8 %); Δf 0,32 → 0,25 Hz.
 
 ## Plano (3 sessões de 2h por semana; detalhes de cada sessão no meu Google Agenda)
 
