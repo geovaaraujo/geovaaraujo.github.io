@@ -33,12 +33,24 @@ Paid scholarship to study the design and simulation of a quadratic flyback conve
 ### FarmBot project, GPAR Laboratory (Brazil)
 *2024*
 
-Development of an automated mini-farm with an irrigation system and plant recognition. I worked on training the image recognition algorithm and on maintaining the electronic components. Skills gained: Python, Arduino, computer vision. [See the project](/en/projects/farmbot/)
+Precision agriculture robot that detects weeds with computer vision. I worked on the computer vision in Python and on the detection experiments, 3D-printed the test objects and maintained the electronics. The new detection logic raised effectiveness from 40% to 72.5% in the foreign-body test; the work led to a published paper. Skills gained: Python, computer vision, Arduino, 3D printing. [See the project](/en/projects/farmbot/)
 
 ### Excellence programme (PET), Federal University of Ceará
 *2023 – 2024*
 
 Teaching and research programme that developed my interpersonal and professional skills: public speaking, leadership, personal organisation and team management.
+
+## Projects
+
+### Model predictive control (MPC) of a battery in a microgrid, École Centrale de Lille
+*April 2026*
+
+Final project of the Smart Grid elective, in a team of two. I formulated the two-level MPC controller and implemented it in Simulink: a 12.8% cut in diesel consumption for an isolated microgrid. Graded A+. Skills: MATLAB/Simulink, model predictive control. [See the project](/en/projects/mpc-microgrid/)
+
+### Machine that turns PET bottles into 3D printer filament, PET Elétrica (UFC)
+*June 2024*
+
+Solo project: PID temperature control on an ESP32, hand-assembled and hand-soldered electronics, C/C++ firmware and every part modelled and 3D-printed. Skills: ESP32, C/C++, KiCad, Fusion 360. [See the project](/en/projects/pet-filament/)
 
 ## Publications
 
@@ -49,7 +61,9 @@ Teaching and research programme that developed my interpersonal and professional
 
 - Embedded systems: C/C++, microcontrollers, ESP32, Raspberry Pi
 - Electronics: circuit design and assembly, PCB design (Altium), power electronics, smart grids
-- Simulation: Matlab, PLECS, PSIM
+- Control: model predictive control (MPC), PID
+- Simulation: Matlab/Simulink, PLECS, PSIM
+- Computer vision: Python
 
 ## Languages
 

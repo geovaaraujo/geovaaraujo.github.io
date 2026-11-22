@@ -33,12 +33,24 @@ Bolsa remunerada para estudar a concepção e a simulação de um conversor flyb
 ### Projeto FarmBot, Laboratório GPAR (UFC)
 *2024*
 
-Desenvolvimento de uma mini-fazenda automatizada com sistema de irrigação e reconhecimento de plantas. Trabalhei no treinamento do algoritmo de reconhecimento de imagens e na manutenção dos componentes eletrônicos. Competências adquiridas: Python, Arduino, visão computacional. [Ver o projeto](/pt/projects/farmbot/)
+Robô de agricultura de precisão que detecta ervas daninhas por visão computacional. Trabalhei na visão computacional em Python e nos experimentos de detecção, imprimi em 3D os objetos de teste e cuidei da manutenção da eletrônica. A nova lógica de detecção elevou a eficácia de 40 % para 72,5 % no teste de corpos estranhos; o trabalho virou artigo publicado. Competências adquiridas: Python, visão computacional, Arduino, impressão 3D. [Ver o projeto](/pt/projects/farmbot/)
 
 ### Programa de Educação Tutorial (PET), Universidade Federal do Ceará
 *2023 – 2024*
 
 Programa de ensino e pesquisa que desenvolveu minhas competências sociais e profissionais: falar em público, liderança, organização pessoal e gestão de equipe.
+
+## Projetos
+
+### Controle preditivo (MPC) de uma bateria numa microrrede, École Centrale de Lille
+*Abril de 2026*
+
+Projeto final da eletiva Smart Grid, em dupla. Formulei o controlador MPC em dois níveis e o implementei no Simulink: redução de 12,8 % no consumo de diesel de uma microrrede isolada. Nota A+. Competências: MATLAB/Simulink, controle preditivo. [Ver o projeto](/pt/projects/mpc-microgrid/)
+
+### Máquina que transforma garrafas PET em filamento 3D, PET Elétrica (UFC)
+*Junho de 2024*
+
+Projeto individual: controle PID de temperatura com ESP32, eletrônica montada e soldada à mão, firmware em C/C++ e todas as peças modeladas e impressas em 3D. Competências: ESP32, C/C++, KiCad, Fusion 360. [Ver o projeto](/pt/projects/pet-filament/)
 
 ## Publicações
 
@@ -49,7 +61,9 @@ Programa de ensino e pesquisa que desenvolveu minhas competências sociais e pro
 
 - Sistemas embarcados: C/C++, microcontroladores, ESP32, Raspberry Pi
 - Eletrônica: concepção e montagem de circuitos, projeto de PCB (Altium), eletrônica de potência, redes inteligentes
-- Simulação: Matlab, PLECS, PSIM
+- Controle: controle preditivo (MPC), PID
+- Simulação: Matlab/Simulink, PLECS, PSIM
+- Visão computacional: Python
 
 ## Línguas
 

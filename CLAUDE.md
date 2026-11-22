@@ -59,6 +59,17 @@ Endereço final: https://geovaaraujo.github.io (repositório público `geovaarau
 - 22/11: projeto novo `mpc-microgrid` (BE 8, eletiva Smart Grid, Centrale Lille, abril 2026, em
   dupla com Ana Letícia Alves, nota A+) publicado nas 3 línguas com 4 slides. Minha parte: MPC e
   Simulink. Números: diesel 275,8 → 246,5 → 240,6 L/dia (−12,8 %); Δf 0,32 → 0,25 Hz.
+- 22/11: bloco 10–12 fechado com 3 projetos (MPC, FarmBot, PET), todos em destaque na home.
+  Sem projeto 4 por enquanto; vou adicionar outros depois.
+- 22/11: CVs no Overleaf ("CV EN V5 (ENTR)" e "CV FR V5 (ENTR)", modelo FortySecondsCV):
+  GitHub trocado para `geovaaraujo`, link do site nos contatos e QR code para o site (pacote
+  `qrcode`). No EN o QR fica na barra lateral (seção Portfolio); no FR, que não tinha espaço na
+  barra lateral, fica no canto inferior direito. Os dois continuam com 1 página.
+- 22/11: página do CV no site revisada nas 3 línguas (seção Projetos com MPC e PET, FarmBot
+  atualizado, competências de controle). PDFs `public/cv/cv-fr.pdf` e `cv-en.pdf` publicados
+  na versão web (sem telefone e data de nascimento). Sem PDF em português.
+  Para gerar a versão web: no Overleaf, linha 66, trocar `\webfalse` por `\webtrue`, recompilar,
+  baixar o PDF, copiar para `public/cv/` e voltar para `\webfalse` (versão completa).
 
 ## Plano (3 sessões de 2h por semana; detalhes de cada sessão no meu Google Agenda)
 

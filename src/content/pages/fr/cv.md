@@ -33,12 +33,24 @@ Bourse rémunérée pour étudier la conception et la simulation d’un converti
 ### Projet FarmBot, laboratoire GPAR, Brésil
 *2024*
 
-Développement d’une mini-ferme automatisée avec système d’irrigation et reconnaissance des plantes. J’ai travaillé sur l’entraînement de l’algorithme de reconnaissance d’images et la maintenance des composants électroniques. Compétences acquises : Python, Arduino, vision par ordinateur. [Voir le projet](/fr/projects/farmbot/)
+Robot d’agriculture de précision qui détecte les mauvaises herbes par vision par ordinateur. J’ai travaillé sur la vision par ordinateur en Python et sur les expériences de détection, imprimé en 3D les objets de test et assuré la maintenance de l’électronique. La nouvelle logique de détection a fait passer l’efficacité de 40 % à 72,5 % lors du test des corps étrangers ; ces travaux ont donné lieu à un article publié. Compétences acquises : Python, vision par ordinateur, Arduino, impression 3D. [Voir le projet](/fr/projects/farmbot/)
 
 ### Programme d’excellence (PET), Université Fédérale du Ceará
 *2023 – 2024*
 
 Programme d’enseignement et de recherche qui a développé mes compétences sociales et professionnelles : prise de parole en public, leadership, organisation personnelle, gestion d’équipe.
+
+## Projets
+
+### Commande prédictive (MPC) d’une batterie dans un micro-réseau, École Centrale de Lille
+*Avril 2026*
+
+Projet final de l’électif Smart Grid, en binôme. J’ai formulé la commande MPC à deux niveaux et l’ai implémentée sous Simulink : réduction de 12,8 % de la consommation de diesel d’un micro-réseau isolé. Note A+. Compétences : MATLAB/Simulink, commande prédictive. [Voir le projet](/fr/projects/mpc-microgrid/)
+
+### Machine qui transforme des bouteilles PET en filament 3D, PET Elétrica (UFC)
+*Juin 2024*
+
+Projet individuel : régulation PID de température sur ESP32, électronique montée et soudée à la main, firmware en C/C++ et toutes les pièces modélisées et imprimées en 3D. Compétences : ESP32, C/C++, KiCad, Fusion 360. [Voir le projet](/fr/projects/pet-filament/)
 
 ## Publications
 
@@ -49,7 +61,9 @@ Programme d’enseignement et de recherche qui a développé mes compétences so
 
 - Systèmes embarqués : C/C++, microcontrôleurs, ESP32, Raspberry Pi
 - Électronique : conception et assemblage de circuits, conception de PCB (Altium), électronique de puissance, réseaux intelligents
-- Simulation : Matlab, PLECS, PSIM
+- Commande : commande prédictive (MPC), PID
+- Simulation : Matlab/Simulink, PLECS, PSIM
+- Vision par ordinateur : Python
 
 ## Langues
 
